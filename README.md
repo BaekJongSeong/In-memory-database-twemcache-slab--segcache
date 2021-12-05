@@ -23,3 +23,4 @@ the number of bytes occupied by the data ed into the slab, the number of expired
 ---
 
 1. we can change 
+![image](https://user-images.githubusercontent.com/79182947/144752537-2f4dbf88-c072-44a5-84e2-8c50a2df902b.png)
