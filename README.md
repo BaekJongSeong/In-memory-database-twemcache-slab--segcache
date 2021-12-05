@@ -20,3 +20,6 @@ such as TTL expiration for each item and the data size is smaller than the speci
 When analyzing, it records the log by uting multiple trace files and records the number of slabs in use for a certain period, 
 
 the number of bytes occupied by the data ed into the slab, the number of expired items.
+---
+
+1. we can change 
